@@ -30,3 +30,9 @@ void main()
 	// cout<<"\n a="<<d1.a;
 	getch();
 }
+/*Enter an int,float,char:12
+3.4
+a
+a=12
+b=3.4
+c=a*/
