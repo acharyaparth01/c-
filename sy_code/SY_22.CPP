@@ -36,3 +36,7 @@ int main()
     getch();
     return 0;
 }
+/*Enter number to search:20
+	Number found
+Enter number to search:21
+Number not found */
