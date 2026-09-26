@@ -29,3 +29,10 @@ void main()
 
     getch();
 }
+/*Enter 5 elements:10
+30
+50
+70
+8
+Enter element to search:50
+Element found at position 3
